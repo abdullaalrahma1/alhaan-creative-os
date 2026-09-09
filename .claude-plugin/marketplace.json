@@ -1,1 +1,14 @@
-
+{
+  "name": "alhaan-creative-os-marketplace",
+  "owner": {
+    "name": "Alhaan Studio Production"
+  },
+  "plugins": [
+    {
+      "name": "alhaan-creative-os",
+      "source": "./plugins/alhaan-creative-os",
+      "description": "Creative direction, cinematic planning, AI video, editing, motion graphics, production and QC.",
+      "version": "1.0.0"
+    }
+  ]
+}
